@@ -1,0 +1,54 @@
+This is Prasad from  DevSecOps Telugu Training. Thank you for attending the free Online live Demo for DevSecOps with AWS at 7:00 AM IST. I am sharing the recorded session on DAY1, DAY2, DAY3, DAY4, DAY5, DAY6, Day7, & DAY8.
+
+Please watch the shared recorded session and if you are interested please contact me @ 8383917484.
+
+
+DevOps course content link: https://drive.google.com/file/d/1_yPSwaUg6Ol9UZ3iWcVmcl0ZqN4T40-F/view
+
+DevSecOps Demo-video1 link: https://drive.google.com/file/d/1HGMKuNzvOGbSrINKgJlL-HeC_N0kkUM7/view?usp=sharing
+
+DevSecOps Demo-video2 link: https://drive.google.com/file/d/1s-d5NNyLfjSUUMcnMnGUq6yRjpI4kkxV/view?usp=sharing
+
+DevSecOps Demo-video3 link: https://drive.google.com/file/d/1ptdFlwZV919hPHSqETpg1jAorWvfjXYI/view?usp=sharing
+
+
+ 
+
+ 
+
+DevSecOps Demo-video4 link: https://drive.google.com/file/d/1d6Du_5_6KXBgc2SV4I6j0C-2GZIGkgLc/view?usp=sharing
+
+
+ 
+
+ 
+
+DevSecOps Demo-video5 link: https://drive.google.com/file/d/1aV6RfwpjhUw3qO_V2Zm7SiHymI6FI74B/view?usp=sharing
+
+ 
+
+DevSecOps Demo-video6 link: https://drive.google.com/file/d/13nQm0ra31BQ0EGk5sQw0MgbHtXz5iH9D/view?usp=sharing
+
+
+ 
+
+ 
+
+DevSecOps Demo-video7 link: https://drive.google.com/file/d/1TNNN32iDT02-ZMNDdRzjBcrKGL47YKIw/view?usp=sharing
+
+
+
+
+DevSecOps Demo-video8 link: https://drive.google.com/file/d/1mR9gz6Pog5WO9dltBXDTL5zFL7fQzivA/view?usp=sharing
+
+
+ 
+
+ 
+
+Please find the attached GIT commands.
+
+
+
+
+batch98/git-commands at main · polarapu/batch98 (github.com)
